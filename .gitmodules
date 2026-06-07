@@ -1,0 +1,8 @@
+[submodule "dolt"]
+	path = dolt
+	url = git@github-personal:teofilosalgado/dolt.git
+	branch = main
+[submodule "go-mysql-server"]
+	path = go-mysql-server
+	url = git@github-personal:teofilosalgado/go-mysql-server.git
+	branch = main
