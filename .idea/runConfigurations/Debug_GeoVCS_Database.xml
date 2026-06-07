@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Debug GeoVCS Database" type="GoApplicationRunConfiguration" factoryName="Go Application">
     <module name="geovcs-db" />
-    <working_directory value="$PROJECT_DIR$/.db" />
+    <working_directory value="dolt" />
     <parameters value="sql-server --loglevel debug" />
     <envs>
       <env name="CGO_ENABLED" value="1" />
