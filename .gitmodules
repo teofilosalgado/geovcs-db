@@ -2,7 +2,9 @@
 	path = dolt
 	url = git@github.com:teofilosalgado/dolt.git
 	branch = main
+	update = rebase
 [submodule "go-mysql-server"]
 	path = go-mysql-server
 	url = git@github.com:teofilosalgado/go-mysql-server.git
 	branch = main
+	update = rebase
